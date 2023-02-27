@@ -27,7 +27,7 @@ function App() {
       }).catch(error => {
         console.log(error);
       });
-  }, [values])
+  }, [values]) 
 
   return (
     <div>
